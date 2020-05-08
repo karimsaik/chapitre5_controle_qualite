@@ -10,8 +10,9 @@ Ceci est une introduction à la collabortion sous git.
 ‘ZOOM’ stock halted after investors confuse it with Zoom Video stock
 This is the link if you are interested :) 
 
+##Test
+This is a test
+
 https://fortune.com/2020/03/26/zoom-stock-halt-zm-ticker/
 >>>>>>> branch 'master' of https://github.com/karimsaik/chapitre5_controle_qualite
 
-##Test
-Ceci est un test chap 5
